@@ -1,0 +1,9 @@
+Classifier,Accuracy
+Logistic Regression,0.8
+AdaBoost,0.75
+Gradient Boosting,0.7333333333333333
+Naive Bayes,0.7333333333333333
+Random Forest,0.7166666666666667
+Decision Tree,0.6833333333333333
+SVM,0.5833333333333334
+K-Nearest Neighbors,0.5333333333333333
